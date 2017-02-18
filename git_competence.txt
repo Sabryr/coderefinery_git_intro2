@@ -1,0 +1,9 @@
+#Add you name and one of the following options
+#1. I do not know what Git is
+#2. I have heard of Git
+#3. I can do basic tracking with Git, but conflicts scares me
+#4. I am a Git user
+#5. I know Git and I can help others with git issues
+#6. I know everything about Git
+
+1. Name1:2
