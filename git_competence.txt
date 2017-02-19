@@ -7,3 +7,5 @@
 #6. I know everything about Git
 
 1. Name1:2
+3. Name3:3
+5. Name5:4
