@@ -5,9 +5,7 @@
 #4. I am a Git user
 #5. I know Git and I can help others with git issues
 #6. I know everything about Git
+#Add a new catagory if you do not see yours
 
+#Format <line_number>.  <Your_name>:<Your_git_competence>
 1. Name1:2
-3. Name3:3
-5. Name5:4
-2. Name2:2
-4. Name4:3
